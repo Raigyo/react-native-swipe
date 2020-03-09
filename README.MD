@@ -2,7 +2,7 @@
 
 *February 2020*
 
-> 🔨 Swipe components with images swiping like in Tinder. Tutorial: ''[Tinder UI Clone](https://blog.expo.io/tutorial-tinder-ui-clone-18f72048d1a4)'.
+> 🔨 Swipe components with images swiping like in Tinder. Tutorial: '[Tinder UI Clone](https://blog.expo.io/tutorial-tinder-ui-clone-18f72048d1a4)'.
 
 ![React Native logo](readme-img/intro-react-logo.png)
 
