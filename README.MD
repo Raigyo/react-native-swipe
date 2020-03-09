@@ -1,4 +1,4 @@
-# React Native: Tutorial: Tinder UI Clone - How to swipe in React Native
+# React Native: Tinder UI Clone - How to swipe in React Native
 
 *February 2020*
 
@@ -12,7 +12,7 @@ In this application, we can swipe between images.
 
 The cards are animated and follow the finger direction. If the card enter in some threshold and the finger is released, it's replaced by another card. otherwise the card comes back to its initial position.
 
-![Capture](readme-img/capture-like.PNG)![Capture](readme-img/capture-nope.PNG)
+![Capture](readme-img/capture-nope.PNG)![Capture](readme-img/capture-like.PNG)
 ## Techs covered
 
 - PanResponder, ScrollView, Animated components
